@@ -1,0 +1,25 @@
+body {
+    background-color: #9b111e;
+}
+
+.title {
+    text-align: center;
+    font-size: 72px;
+}
+
+ul {
+    list-style-type: lower-greek;
+    padding-left: 0;
+}
+
+.recipe-list {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.index-list {
+    width: 200px;
+    margin: 0 auto;
+    font-size: 30px;
+    margin-left: 130px;
+}
